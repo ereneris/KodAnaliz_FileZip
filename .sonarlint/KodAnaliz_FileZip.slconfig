@@ -1,0 +1,19 @@
+{
+  "ServerUri": "https://sonarcloud.io/",
+  "Organization": {
+    "Key": "ereneris",
+    "Name": "ereneris"
+  },
+  "ProjectKey": "ereneris_Arduino",
+  "ProjectName": "Arduino",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AYeCINJ2Ly-zuoECJdtN",
+      "ProfileTimestamp": "2023-05-31T14:52:04Z"
+    },
+    "Secrets": {
+      "ProfileKey": "AYeCINJ2Ly-zuoECJds6",
+      "ProfileTimestamp": "2023-01-25T09:40:14Z"
+    }
+  }
+}
