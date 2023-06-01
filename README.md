@@ -1,0 +1,2 @@
+# KodAnaliz_FileZip
+ÖrnekCalisma
